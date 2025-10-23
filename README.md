@@ -38,6 +38,10 @@ The procedural generation logic, implemented in C#, manages several aspects simu
 * The weapon system integrates raycasting and collision detection for accurate shooter mechanics.
 * Player movement and environmental interaction adhere to Unity's 2D/3D physics standards (depending on the project's dimension) to provide responsive platforming controls.
 
+## 4. Result 
+* If you want to see the game design and how it works, click on these links :
+[https://screenrec.com/share/LlyiWFJsCN]
+[https://screenrec.com/share/J8qXWgLh7a]
 ## ▶️ How to Run the Project
 
 1.  **Clone the repository:**
